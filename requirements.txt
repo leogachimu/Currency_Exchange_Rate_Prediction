@@ -1,0 +1,17 @@
+streamlit  
+pandas
+numpy    
+joblib
+scikit-learn
+plotly
+statsmodels
+prophet
+pmdarima
+tensorflow
+keras
+beautifulsoup4==4.12.2
+soupsieve==2.5
+requests
+datetime
+matplotlib
+seaborn
