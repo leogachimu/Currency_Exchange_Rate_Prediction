@@ -1,8 +1,30 @@
-# Bitcoin Price Prediction - Summary README
+# Bitcoin Price Prediction - Summary
+
+<img src="images/recent_bitcoin_price_trend.png" width=800>
 
 ## Overview
 
-This project focuses on predicting Bitcoin prices against USD using a combination of time series and machine learning models. The project aims to provide valuable insights for traders and investors by leveraging historical price data.
+This project focuses on predicting Bitcoin prices against USD using different time series models. The project aims to provide valuable insights for traders and investors by leveraging historical price data.
+
+## A Brief History of Bitcoins 
+Bitcoin is the first decentralized cryptocurrency. Nodes in the peer-to-peer bitcoin network verify transactions through cryptography and record them in a public distributed ledger, called a blockchain, without central oversight.Here is a brief video about bitcoins by BBC https://www.youtube.com/watch?v=SzAuB2FG79A
+
+It was invented in 2008 by [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto), an anonymous person and its use as a currency began in 2009.
+
+In 2010, the first known commercial transaction using bitcoin occurred when programmer Laszlo Hanyecz bought two Papa John's pizzas for \₿10,000.
+
+## Problem Statement
+Cryptocurrency trading is complex, risky, and the prices are unpredictable, which causes many investors to lose their lifetime savings. Many pundits and critics have constantly insisted that bitcoin and other crypocurrencies are a bubble waiting to burst one last time!
+
+Consider these scenarios:
+
+    From 8th to 12th March 2020, the price of Bitcoin fell by 30 percent from USD8,901 to USD6,206.
+
+    After another surge on 3rd January 2021 with USD34,792.47, Bitcoin crashed by 17 percent the next day.
+
+    Following a small correction in February 2021, Bitcoin plunged from its peak above USD64,000 on 14th April to below USD49,000 on 23rd April, representing a 23% mini-crash in less than 10 days.
+
+Our model will simply provide investors with a forecast of bitcoin prices up to any number of days they wish so that they can plan their buying and selling accordingly.
 
 ## Key Features
 
@@ -43,6 +65,8 @@ This project focuses on predicting Bitcoin prices against USD using a combinatio
 ### 4. Model Deployment
 
 - Deploy the Facebook Prophet model for real-time data extraction and forecasting.
+<img src="images/fb_prophet_forecast.png" width=800>
+
 - Create a Streamlit web app for users to interact with the deployed model.
 
 ## Results
