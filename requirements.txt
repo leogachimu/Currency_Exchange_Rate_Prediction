@@ -10,15 +10,8 @@ pmdarima
 tensorflow
 keras
 beautifulsoup4==4.12.2
-<<<<<<< HEAD
 soupsieve==2.5
 requests
 datetime
 matplotlib
 seaborn
-=======
-requests
-datetime
-matplotlib
-seaborn
->>>>>>> f00a160e31705fa33a904775bcf0d0d7a64c4f93
