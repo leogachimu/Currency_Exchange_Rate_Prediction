@@ -14,7 +14,7 @@ import seaborn as sns
 
 """
 
-with open('model_test.pkl','rb') as file:
+with open('fb_model.pkl','rb') as file:
     fb_model = joblib.load(file)
 
 num_of_days = st.number_input('Enter Number of Days to be Predicted from Tomorrow')
