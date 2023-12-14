@@ -1,7 +1,5 @@
 # Bitcoin Price Prediction - Summary
 
-Project presentation link : https://prezi.com/view/adCc7sO1A9eMC547Yk7J/
-
 <img src="images/recent_bitcoin_price_trend.png" width=800>
 
 ## Overview
@@ -75,6 +73,9 @@ Our model will simply provide investors with a forecast of bitcoin prices up to 
 
 - The project evaluates the effectiveness of various models in predicting Bitcoin prices, considering both univariate and multivariate approaches.
 - The Facebook Prophet model on 1-lag differenced series outperforms other models, achieving an RMSE of 855.996.
+
+The deployed model can accessed and tested here https://predictbitcoin.streamlit.app/
+Project presentation link : https://prezi.com/view/adCc7sO1A9eMC547Yk7J/
 
 ## Contributors
 
