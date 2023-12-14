@@ -74,7 +74,8 @@ Our model will simply provide investors with a forecast of bitcoin prices up to 
 - The project evaluates the effectiveness of various models in predicting Bitcoin prices, considering both univariate and multivariate approaches.
 - The Facebook Prophet model on 1-lag differenced series outperforms other models, achieving an RMSE of 855.996.
 
-The deployed model can accessed and tested here https://predictbitcoin.streamlit.app/
+The deployed model can accessed and tested here https://predictbitcoin.streamlit.app/<br>
+
 Project presentation link : https://prezi.com/view/adCc7sO1A9eMC547Yk7J/
 
 ## Contributors
