@@ -2,6 +2,8 @@
 
 <img src="images/recent_bitcoin_price_trend.png" width=800>
 
+Project presentation link: https://prezi.com/view/adCc7sO1A9eMC547Yk7J/
+
 ## Overview
 
 This project focuses on predicting Bitcoin prices against USD using different time series models. The project aims to provide valuable insights for traders and investors by leveraging historical price data.
@@ -76,7 +78,7 @@ Our model will simply provide investors with a forecast of bitcoin prices up to 
 
 The deployed model can accessed and tested here https://predictbitcoin.streamlit.app/<br>
 
-Project presentation link : https://prezi.com/view/adCc7sO1A9eMC547Yk7J/
+Project presentation link: https://prezi.com/view/adCc7sO1A9eMC547Yk7J/
 
 ## Contributors
 
